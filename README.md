@@ -54,7 +54,6 @@
 - 물리 충돌과 지면 판정의 안정성
 - 전투 상태에 따른 이동·입력·방향 제어
 - 애니메이션과 공격 판정의 타이밍
-- 에디터와 빌드 환경의 렌더링 차이
 
 **플레이 영상 링크**
 
@@ -103,6 +102,6 @@ C++과 HLSL로 구현한 실시간 PBR 셰이더 뷰어입니다.
 - Clio Fact Checker: 역사 고증과 사실관계 검토
 - 회차별 집필 에디터와 캐릭터·플롯·참고 자료 관리
 
-<!-- 본인이 담당한 기능과 기여 내용을 추가하세요. -->
+백엔드 구축 및 배포, Clio Fact Checker 에이전트 워크플로우를 담당하였습니다.
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/haha9430/novelbright)
